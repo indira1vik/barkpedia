@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarkPedia</string>
+    <string name="tag_line">the one-stop dog info app</string>
+    <string name="parent_company">onefactorial</string>
+</resources>

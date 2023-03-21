@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5557917019",
+    "project_id": "barkpedia-ddfd9",
+    "storage_bucket": "barkpedia-ddfd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5557917019:android:df733105710d2adac4f67e",
+        "android_client_info": {
+          "package_name": "com.example.barkpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5557917019-c2un709asqot3ds4tj412g9egaft6je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dpZLKRqHM1s3eatQL1l4peagK2QjBIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5557917019-c2un709asqot3ds4tj412g9egaft6je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
